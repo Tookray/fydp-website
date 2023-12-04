@@ -3,6 +3,17 @@ title: 🏠 Home
 enableToc: false
 ---
 
+Welcome to our FYDP website. This is a place where we document our progress.
+
+## About
+
+There is currently no industry solution for repeatedly launching a frisbee/disk,
+so testing discs is unreliable and ratings are vague.
+
+We are a team of 5 students from the University of Waterloo looking to build a
+device that can recreate launch conditions with high precision and
+repeatability.
+
 ## Areas
 
 - [Mechanical](notes/mechanical.md)
