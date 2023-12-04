@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Group 52
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,18 +10,17 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink:
 search:
   enableSemanticSearch: false
-  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+  operandApiKey:
+  operandIndexId:
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  MTE 2024 Group 52 FYDP
 page_title:
-  "🪴 Quartz 3.3"
+  "🤖 FYDP"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
