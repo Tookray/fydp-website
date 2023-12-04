@@ -6,7 +6,7 @@ enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
-enableSPA: true
+enableSPA: false
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
@@ -22,3 +22,9 @@ description:
 page_title:
   "🤖 FYDP"
 links:
+  - link_name: Mechanical
+    link: /notes/mechanical
+  - link_name: Electrical
+    link: /notes/electrical
+  - link_name: Control
+    link: /notes/control
