@@ -3,25 +3,19 @@ title: 🏠 Home
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## Areas
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+- [Mechanical](notes/mechanical.md)
+- [Electrical](notes/electrical.md)
+- [Control](notes/control.md)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## Change Log
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+- [Overall Project Timeline](logs/01-11-2023)
+- [Electrical Part Selection](logs/02-11-2023.md)
+- [Gripper Prototype 1 and MCU Requirements](logs/10-11-2023.md)
+- [Electrical Architecture](logs/12-11-2023.md)
+- [Shaft Design, Gripper Prototype 2, and MCU Selection](logs/16-11-2023.md)
+- [MCU Code Flow](logs/18-11-2023.md)
+- [PCB Design](logs/24-11-2023.md)
+- [Gripper Prototype 3 and Case Design](logs/29-11-2023.md)
