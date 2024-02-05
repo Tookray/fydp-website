@@ -30,3 +30,4 @@ repeatability.
 - [MCU Code Flow](logs/18-11-2023.md)
 - [PCB Design](logs/24-11-2023.md)
 - [Gripper Prototype 3 and Case Design](logs/29-11-2023.md)
+- [January 2024 Update](logs/31-01-2024.md)
