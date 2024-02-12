@@ -10,3 +10,4 @@ enableToc: false
 - [Electrical Architecture](logs/12-11-2023.md)
 - [PCB Design](logs/24-11-2023.md)
 - [January 2024 Update](logs/31-01-2024.md)
+- [February 9 Update](logs/09-02-2024.md)
