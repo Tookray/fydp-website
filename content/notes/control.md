@@ -13,3 +13,4 @@ enableToc: false
 - [March 1 Update](logs/01-03-2024.md)
 - [March 10 Update](logs/10-03-2024.md)
 - [March 13 Update](logs/13-03-2024.md)
+- [March 21 Update](logs/21-03-2024.md)
